@@ -83,4 +83,4 @@ This Power BI project demonstrates practical skills in:
 
 ## **AUTHOR**
 **CH.MURALIKRISHNA**
-**EMAIL** -- **MKNKS.2024@GMAIL.COM**
+**EMAIL** -- **mknks.2024@gmail.com**
